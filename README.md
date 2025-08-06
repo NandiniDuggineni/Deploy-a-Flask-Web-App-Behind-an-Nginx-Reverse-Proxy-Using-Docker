@@ -9,20 +9,6 @@ How to configure Nginx as a reverse proxy
 How to serve the web app on localhost:80 using Nginx
 Understand Docker Compose networking
 
-Project Structure
-day2-project1/
-│
-├── app/
-│   └── app.py
-│   └── requirements.txt
-│   └── Dockerfile
-│
-├── nginx/
-│   └── default.conf
-│
-└── docker-compose.yml
-
-
 How to Run:
 # Step into the project folder
 cd day2-project1
