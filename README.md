@@ -22,3 +22,4 @@ Reverse proxies are essential for real-world apps (routing, security, performanc
 Learning Nginx + Docker teaches modern web deployment basics
 This setup is a mini version of how large-scale apps serve traffic
 
+you can read the details artical here: https://nandiniduggineni.hashnode.dev
